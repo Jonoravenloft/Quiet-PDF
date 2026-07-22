@@ -1,0 +1,42 @@
+Quiet PDF - License and Terms of Use
+Copyright (c) 2026 Jono. All rights reserved.
+
+Quiet PDF ("the Software") is free to download and use. By downloading, installing,
+or using the Software, you agree to these terms.
+
+WHAT YOU MAY DO
+- Download, install, and use the Software on your own devices, at no cost, for
+  personal or internal use.
+- Share a copy with friends and family for their own personal use, or point them to
+  the official download page so they can get a verified copy from the source.
+
+WHAT YOU MAY NOT DO
+- Sell, rent, sublicense, or charge anyone for the Software.
+- Host your own public download of the Software, repackage it, or bundle it into
+  another product or distribution.
+- Modify, translate, decompile, disassemble, reverse-engineer, or create derivative
+  works from the Software.
+- Remove or alter any copyright, author, or license notices.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. YOU USE THE SOFTWARE ENTIRELY AT YOUR OWN
+RISK.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIRD-PARTY COMPONENTS
+The Software is built with open-source components that remain under their own
+licenses, including Electron and Node.js (MIT License), Mozilla pdf.js (Apache
+License 2.0), and pdf-lib (MIT License). Those components belong to their respective
+authors and are used here under those licenses. The terms above apply to Quiet PDF as
+a whole; they do not limit your separate rights to those third-party components under
+their own licenses.
+
+CONTACT
+Questions, feature requests, or issues: reach Jono through the donation page at
+https://ko-fi.com/sterlingnerd
